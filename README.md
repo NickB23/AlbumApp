@@ -1,6 +1,6 @@
-<a href="https://cl.ly/3Z2U3r0U3F03" target="_blank"><img src="https://cl.ly/82c4f12530b0/Screen%252520Recording%2525202019-03-19%252520at%25252012.13%252520AM.gif" style="display: block;height: auto;width: 100%;"/></a>
+<a href="https://cl.ly/3Z2U3r0U3F03" target="_blank"><img src="https://cl.ly/26d6c9b1b93a/Screen%252520Recording%2525202019-03-19%252520at%25252012.20%252520AM.gif" style="display: block;height: auto;width: 100%;"/></a>
 
-## How to run the app
+## How to run
 
 First clone the repository
 
